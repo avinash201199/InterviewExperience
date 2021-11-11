@@ -9,6 +9,8 @@ This repository is to help those who are going for an interview. Any one can use
 * and add your interview experience by creating .md file
 * for example check [this](https://github.com/avinash201199/InterviewExperience/blob/main/Wipro_Interview_Experience/Wipro%20elite%20interview%20experience2021.md)
 
+You can also send your interview experience in any format , I will add it here.
+
 
 For any doubt contact me  here: - <br>
 [<img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"/>](https://www.instagram.com/lets__code/) [<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>](https://github.com/avinash201199)[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/avinash-singh-071b79175/)
