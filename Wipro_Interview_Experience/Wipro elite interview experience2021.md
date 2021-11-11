@@ -8,7 +8,12 @@ My interview experience was smooth but can't say for all , the interviewer was f
 
 He was impressed with my intro,after that he asked about projects which was mentioned in my resume so prepare your resume carefully. <br>
 Why wipro ? 
-I answered that I have heard a lot from my senions that working environment at wipro is very good.
+I answered that I have heard a lot from my senions that working environment at wipro is very good. <br>
+Are you willing to relocate ? I answered yes.<br>
+Any preferred location ? I answered any location will work for me.<br>
+At last he asked me do you have any question ? I asked about the working environment at wipro , he answered and then we disconnected for further process.<br>
+
+You have to be confident while speacking so prepare your intro and practice it many times infront of mirror unless you are fluent.
 
 
 
