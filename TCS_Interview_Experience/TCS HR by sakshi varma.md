@@ -1,5 +1,5 @@
 TCS HR by sakshi varma <br>
-Im 2020 passed out batch <br>
+Im 2020 passed out batch - Srikanth <br>
 Ready to relocate <br>
 Okay with any shifts  <br>
 Aware of 1 Year bond <br>
