@@ -10,12 +10,12 @@ Tell me about ur city<br>
 
 ### Unknown :
 self intro <br>
-No prjct<br>
+No project<br>
 Direct attack <br>
-What is c <br>
-What is recursion <br>
-What is call by value call by reference<br>
-Diff btw structure and array<br>
+What is c ?<br>
+What is recursion ?<br>
+What is call by value call by reference ?<br>
+Diff btw structure and array ?<br>
 Logic of prime number<br>
 Relocation<br>
 Shifts<br>
