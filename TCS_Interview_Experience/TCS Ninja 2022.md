@@ -1,7 +1,7 @@
-Hey guy's I've received offer letter for TCS Ninja 2022 Hiring today Afternoon 13 Nov.
-Region: Pune
-TR Date: 29 Oct 21
-HR Date: 30 Oct 21
+Hey guy's I've received offer letter for TCS Ninja 2022 Hiring today Afternoon 13 Nov. <br>
+Region: Pune <br>
+TR Date: 29 Oct 21  <br>
+HR Date: 30 Oct 21  <br>
 
 ### TR Questions:
 Introduction
