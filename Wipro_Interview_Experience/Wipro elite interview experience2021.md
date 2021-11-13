@@ -1,5 +1,5 @@
 Avinash Singh <br>
-[Linkedin](https://www.linkedin.com/in/avinash-singh-071b79175/)
+[Linkedin](https://www.linkedin.com/in/avinash-singh-071b79175/) <br>
 B.tech CSE <br>
 Batch - 2022 <br>
 
