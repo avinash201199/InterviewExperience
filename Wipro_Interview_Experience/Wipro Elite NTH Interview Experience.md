@@ -19,6 +19,8 @@ Difference between overloading and overriding<br>
 What is Normalisation?<br>
 Explain the difference between primary key and foreign key.<br>
 What are DDL, DML commands?<br>
+If further, you get an option to choose a project between JAVA or C++ which one would
+you choose and why? <br>
 
 ### HR Questions:
 
