@@ -31,6 +31,8 @@ There was not even single technical question asked for me. After completion of T
 
 After that the results came on that day night in which there were 73 students selected in final list. I am happy even my name was present at that list.<br>
 
+Thank you !
+
 
 
 
